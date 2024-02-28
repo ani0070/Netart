@@ -1,0 +1,32 @@
+/* Footer.css */
+.footer {
+  background-color: red;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.footer-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 25px;
+}
+
+.footer-item {
+  text-align: center;
+}
+b{
+  color: red;
+}
+section,h4{
+  text-align: center;
+ 
+}
+.footer_div{
+  background-color: bisque;
+}
+@media screen and (max-width:850px){
+  section,h4{
+    font-size: 20px;
+  }
+  
+}
